@@ -10,6 +10,6 @@
 obj-$(CONFIG_SAA716X_CORE) += saa716x/
 #obj-$(CONFIG_TBS_PCIE_CAP) += tbscapture/
 #obj-$(CONFIG_TBS_PCIE2_CAP) += tbscapture2/
-obj-$(CONFIG_TBS_PCIE_CI) += tbsci/
-obj-$(CONFIG_DVB_TBSECP3) += tbsecp3/
-obj-$(CONFIG_TBS_PCIE_MOD) += tbsmod/
+#obj-$(CONFIG_TBS_PCIE_CI) += tbsci/
+#obj-$(CONFIG_DVB_TBSECP3) += tbsecp3/
+#obj-$(CONFIG_TBS_PCIE_MOD) += tbsmod/

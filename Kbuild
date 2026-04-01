@@ -2,6 +2,5 @@
 
 obj-y        := dvb-core/	\
 		pci/       \
-		dvb-usb/       \
 		tuners/       \
 		frontends/	
